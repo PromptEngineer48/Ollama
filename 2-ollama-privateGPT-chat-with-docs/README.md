@@ -6,6 +6,7 @@
 pip install -r requirements.txt
 
 #### Step 3: Pull the models (if you already have models loaded in Ollama, then not required)
+#### Make sure to have Ollama running on your system from https://ollama.ai
 ollama pull mistral
 
 #### Step 4: put your files in the source_documents folder after making a directory

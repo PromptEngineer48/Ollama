@@ -1,3 +1,5 @@
+#### Inspired from (https://github.com/imartinez/privateGPT) and (https://github.com/jmorganca/ollama)
+
 #### Step 1: Step a Virtual Environment
 
 #### Step 2: Install the Requirements
